@@ -1,0 +1,6 @@
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\Bibliotecas\CapaIntegracion.dll
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete

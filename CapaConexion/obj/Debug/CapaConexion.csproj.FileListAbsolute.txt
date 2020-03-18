@@ -1,0 +1,5 @@
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\Bibliotecas\CapaConexion.dll
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\Bibliotecas\CapaConexion.pdb
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\CapaConexion\obj\Debug\CapaConexion.pdb

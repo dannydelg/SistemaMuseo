@@ -1,0 +1,6 @@
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\Bibliotecas\CapaLogica.dll
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\Bibliotecas\CapaLogica.pdb
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Danny Delgado Orozco\source\repos\SistemaMuseo\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
